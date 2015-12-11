@@ -1,0 +1,6 @@
+**/*.pyc
+.cache
+.coverage
+.tox
+__
+hello_world.egg-info
