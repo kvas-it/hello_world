@@ -1,6 +1,9 @@
 Hello world
 ###########
 
+.. image:: https://travis-ci.org/kvas-it/hello_world.svg?branch=master
+    :target: https://travis-ci.org/kvas-it/hello_world
+
 Example python project.
 
 Requirements:
