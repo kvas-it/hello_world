@@ -21,6 +21,11 @@ setup(
     install_requires=[
         'PyYAML'
     ],
+    entry_points={
+        'console_scripts': [
+            'hello = hello_world.script:main'
+        ]
+    },
     license='MIT',
     zip_safe=False,
     keywords='hello_world',
