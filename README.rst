@@ -56,7 +56,7 @@ pytest and tox that are used for testing.
 * Use ``make testcov`` and ``make htmlcov`` to measure test coverage.
 
 * Use ``make testall`` to run the tests for all supported python versions
-  (2.7, 3.3, 3.4 and 3.5).
+  (2.7, 3.3 and 3.5).
 
 Please make sure ``make testall`` is successful before submitting
 a pull request. Also try to not reduce test coverage without a good reason.
