@@ -60,3 +60,4 @@ pytest and tox that are used for testing.
 
 Please make sure ``make testall`` is successful before submitting
 a pull request. Also try to not reduce test coverage without a good reason.
+
